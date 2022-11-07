@@ -2,6 +2,13 @@
 ### Student ID: A0259937H Name: FU YUJIE
 ### Model implemented: PCA, LDA, SVM and CNN
 
+## Some required package to run
+
+### numpy
+### sklearn
+### keras/tensorflow
+### opencv
+
 ## About the dataset
 
 #### Original face dataset "PIE" consists of 68 categories/folders. For the convenience of data import, an additional "69" folder is created to store my personal photos, 10 in total and numbered 0.jpg to 9.jpg. Noted that they are already cropped to 32x32 and transformed to grayscale.
